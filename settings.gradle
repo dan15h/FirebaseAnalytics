@@ -1,0 +1,3 @@
+include ':FirebaseAnalytics'
+include ':app'
+rootProject.name = "FirebaseAnalyticLibrary"
