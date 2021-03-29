@@ -1,2 +1,0 @@
-# FirebaseAnalytics
-Easy Firebase evenets
